@@ -24,7 +24,7 @@ const App = () => {
   return (
     <div>
      <Navbar></Navbar>
-     <div className="flex justify-between items-center w-11/12 mx-auto">
+     <div className="flex justify-between  w-11/12 mx-auto">
         <Allproducts></Allproducts>
         <CartContainer isActive={isActive} handleIsActive={handleIsActive}></CartContainer>
      </div>
