@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Luxury Beach Resort",
+    "image": "https://i.postimg.cc/7PgWQMhn/bd-galaxy-z-fold6-f956-sm-f956bzsdbng-thumb-545033198.avif",
+    "descriptions": "A beautiful beachfront resort with stunning ocean views, premium amenities, and world-class service.",
+    "price": 250,
+    "category": "Resort",
+    "isFeature": true
+  },
+  {
+    "id": 2,
+    "name": "Mountain View Cabin",
+    "image": "https://i.postimg.cc/d39289vq/bd-galaxy-s24-s928-sm-s928bztcbkd-539412884.avif",
+    "descriptions": "A cozy wooden cabin with breathtaking mountain views, perfect for a peaceful getaway.",
+    "price": 180,
+    "category": "Cabin",
+    "isFeature": false
+  },
+  {
+    "id": 3,
+    "name": "City Center Apartment",
+    "image": "https://i.postimg.cc/jdG9gxYB/apple-iphone16-smartphone-512gb-black.webp",
+    "descriptions": "A modern apartment in the heart of the city, close to major attractions and public transport.",
+    "price": 120,
+    "category": "Apartment",
+    "isFeature": true
+  },
+  {
+    "id": 4,
+    "name": "Jungle Eco Lodge",
+    "image": "https://i.postimg.cc/d39289vq/bd-galaxy-s24-s928-sm-s928bztcbkd-539412884.avif",
+    "descriptions": "An eco-friendly lodge in the middle of the jungle, offering adventure and nature experiences.",
+    "price": 200,
+    "category": "Lodge",
+    "isFeature": false
+  },
+  {
+    "id": 5,
+    "name": "Lakefront Cottage",
+    "image": "https://i.postimg.cc/T3LmSJG3/images.jpg",
+    "descriptions": "A charming cottage by the lake, ideal for relaxation and water activities.",
+    "price": 150,
+    "category": "Cottage",
+    "isFeature": true
+  },
+  {
+    "id": 6,
+    "name": "Desert Safari Camp",
+    "image": "https://i.postimg.cc/T3LmSJG3/images.jpg",
+    "descriptions": "A traditional desert camp offering camel rides, cultural performances, and a starry night experience.",
+    "price": 100,
+    "category": "Camp",
+    "isFeature": false
+  },
+  {
+    "id": 7,
+    "name": "Snowy Mountain Chalet",
+    "image": "https://i.postimg.cc/T3LmSJG3/images.jpg",
+    "descriptions": "A luxurious chalet in the snowy mountains, perfect for ski lovers and winter adventures.",
+    "price": 300,
+    "category": "Chalet",
+    "isFeature": true
+  },
+  {
+    "id": 8,
+    "name": "Floating Houseboat",
+    "image": "https://i.postimg.cc/T3LmSJG3/images.jpg",
+    "descriptions": "A unique houseboat experience on calm waters, combining comfort and scenic views.",
+    "price": 220,
+    "category": "Houseboat",
+    "isFeature": false
+  },
+  {
+    "id": 9,
+    "name": "Countryside Farmstay",
+    "image": "https://i.postimg.cc/T3LmSJG3/images.jpg",
+    "descriptions": "A peaceful farmstay surrounded by greenery, fresh air, and organic farm experiences.",
+    "price": 130,
+    "category": "Farmstay",
+    "isFeature": true
+  },
+  {
+    "id": 10,
+    "name": "Treehouse Adventure",
+    "image": "https://i.postimg.cc/T3LmSJG3/images.jpg",
+    "descriptions": "A treehouse stay in the middle of the forest, offering a unique and thrilling experience.",
+    "price": 170,
+    "category": "Treehouse",
+    "isFeature": false
+  }
+]
